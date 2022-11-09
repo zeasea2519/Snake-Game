@@ -3,4 +3,4 @@ Snake game made using python and the pygame module. I used a tutorial for this t
 I did this project over a weekend as I am trying to get back into coding after a break. 
 While this code is not original and is largely based on a YouTube tutorial, I have changed things about the code such as the size of the window and the colour scheme to make it slightly more personalised.
 
-Based on a YouTube tutorial by Clear Code.
+Based on a YouTube tutorial by Clear Code. You may need to install the Pygame module for this code to run.
